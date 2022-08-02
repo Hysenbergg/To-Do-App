@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "job": "Kalk ve kahvaltını yap.",
+    "isDone": true
+  },
+  {
+    "id": 2,
+    "job": "Günlük görevler yerine getirelecek.",
+    "isDone": false
+  },
+  {
+    "id": 3,
+    "job": "İngilizce çalış.",
+    "isDone": false
+  },
+  {
+    "id": 4,
+    "job": "React Native öğrenilecek...",
+    "isDone": false
+  }
+
+
+]
